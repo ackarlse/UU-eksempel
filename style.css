@@ -9,5 +9,6 @@ body{
 
 a{
     padding: 1rem;
+    display: inline-block;
 }
 
